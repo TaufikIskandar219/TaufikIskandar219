@@ -11,6 +11,77 @@
 
 #### 1. [Universitas Amikom Yogyakarta](https://www.amikom.ac.id) | Bachelor Degree of Computer Science | Yogyakarta `2019-20224`
 
+# 🎓 Education & 📜 Certifications
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+  <h3>📍 <strong>Education</strong></h3>
+
+  <ul>
+        <li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Slack_Icon.png" width="20"/>
+          <strong>Digital Skola</strong> – <em>Data Science</em><br>
+          📅 May – Aug 2023<br>
+          📊 GPA: <strong>96/100</strong>
+        </li>
+        <br>
+        <li>
+          <img src="https://seeklogo.com/images/R/revou-logo-31864B1E5E-seeklogo.com.png" width="20"/>
+          <strong>RevoU</strong> – <em>Full Stack Data Analyst</em><br>
+          📅 Jun – Jul 2023<br>
+          📊 GPA: <strong>98/100</strong>
+        </li>
+        <br>
+        <li>
+          <img src="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_Universitas_Gunadarma.png" width="20"/>
+          <strong>Gunadarma University</strong> – <em>Bachelor’s in Informatics</em><br>
+          📅 Mei 2015 – Nov 2019<br>
+          📊 GPA: <strong>3.61/4.00</strong>
+        </li>
+      </ul>
+
+  </td>
+
+  <td valign="top" width="50%">
+
+  <h3>📜 <strong>Certifications</strong></h3>
+
+  <ul>
+        <li>
+          <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="20"/>
+          <strong>Data Science Career Starter</strong> – Pacmann<br>
+          📅 Jul 2023<br>
+          🔗 <a href="#">View Certificate</a>
+        </li>
+        <br>
+        <li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="20"/>
+          <strong>Google Advanced Data Analytics</strong><br>
+          📅 Jan 2023<br>
+          🔗 <a href="#">View Certificate</a>
+        </li>
+        <br>
+        <li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Coursera_logo.svg" width="20"/>
+          <strong>Data Science Orientation</strong> – Coursera<br>
+          📅 May 2022<br>
+          🔗 <a href="#">View Certificate</a>
+        </li>
+        <br>
+        <li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="20"/>
+          <strong>IBM Data Science</strong><br>
+          📅 2021<br>
+          🔗 <a href="#">View Certificate</a>
+        </li>
+      </ul>
+
+  </td>
+  </tr>
+</table>
+
 
 ## Work Experience:
 <br />
