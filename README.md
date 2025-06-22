@@ -14,7 +14,7 @@
 
 ## Work Experience:
 
-<img align="left" alt="MySQL" width="100px" src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="1000px" src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" style="padding-right:10px;" />
 
 <br />
 <br />
