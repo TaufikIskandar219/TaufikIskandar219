@@ -13,13 +13,43 @@
 
 
 ## Work Experience:
+<br />
 
-<img align="left" alt="MySQL" width="500px" src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" style="padding-right:10px;" />
+# 📊 Project 2: Model Regression
+
+Visualisasi hasil regresi menggunakan berbagai model Machine Learning untuk memprediksi harga rumah.
+
+---
+
+## 📈 Hasil Prediksi vs Aktual (Model Regression)
+
+<table>
+  <tr>
+    <td align="center"><strong>Ridge Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+    <td align="center"><strong>XGBoost Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Lasso Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+    <td align="center"><strong>LightGBM Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+  </tr>
+</table>
+
+---
+
+📁 Setiap gambar memperlihatkan **akurasi prediksi** dibandingkan nilai aktual menggunakan model:
+
+- 🔵 Ridge Regression
+- 🔴 Lasso Regression
+- 🔷 XGBoost Regression
+- 🔶 LightGBM Regression
+
+---
+
+🔗 [Lihat Kode Proyek Lengkap](https://github.com/username/repo-name/blob/main/project-folder/model_regression.ipynb)
 
 <br />
 <br />
-<br />
-<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
