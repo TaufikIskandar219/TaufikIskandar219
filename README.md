@@ -20,24 +20,11 @@
   <h3>📍 <strong>Education</strong></h3>
 
   <ul>
-        <li>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Slack_Icon.png" width="20"/>
-          <strong>Digital Skola</strong> – <em>Data Science</em><br>
-          📅 May – Aug 2023<br>
-          📊 GPA: <strong>96/100</strong>
-        </li>
         <br>
         <li>
-          <img src="https://seeklogo.com/images/R/revou-logo-31864B1E5E-seeklogo.com.png" width="20"/>
-          <strong>RevoU</strong> – <em>Full Stack Data Analyst</em><br>
-          📅 Jun – Jul 2023<br>
-          📊 GPA: <strong>98/100</strong>
-        </li>
-        <br>
-        <li>
-          <img src="" width="20"/>
+          <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Amikom.png" width="20"/>
           <strong>Universitas Amikom Yogyakarta</strong> – <em>Bachelor’s in Informatics</em><br>
-          📅 Mei 2019 – Nov 2024<br>
+          📅 September 2019 – Nov 2024<br>
         </li>
       </ul>
 
