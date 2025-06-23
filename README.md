@@ -7,10 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: taufikiskandar219@gmail.com
 
-## Education:
-
-#### 1. [Universitas Amikom Yogyakarta](https://www.amikom.ac.id) | Bachelor Degree of Computer Science | Yogyakarta `2019-20224`
-
 # 🎓 Education & 📜 Certifications
 
 <table>
