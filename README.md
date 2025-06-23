@@ -35,10 +35,9 @@
         </li>
         <br>
         <li>
-          <img src="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_Universitas_Gunadarma.png" width="20"/>
-          <strong>Gunadarma University</strong> – <em>Bachelor’s in Informatics</em><br>
-          📅 Mei 2015 – Nov 2019<br>
-          📊 GPA: <strong>3.61/4.00</strong>
+          <img src="" width="20"/>
+          <strong>Universitas Amikom Yogyakarta</strong> – <em>Bachelor’s in Informatics</em><br>
+          📅 Mei 2019 – Nov 2024<br>
         </li>
       </ul>
 
