@@ -68,7 +68,7 @@
 ## Work Experience:
 <br />
 
-# 📊 Project 2: Model Regression
+# 📊 Project 2: Model Machine Learning
 
 Visualisasi hasil regresi menggunakan berbagai model Machine Learning untuk memprediksi harga rumah.
 
