@@ -19,7 +19,7 @@
       <ul>
         <li>
           <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Amikom.png" width="20"/>
-          <strong>Universitas Amikom Yogyakarta</strong><br>
+          <strong>  Universitas Amikom Yogyakarta    </strong><br>
           <em>Bachelor’s in Informatics</em><br>
           📅 Sep 2019 – Nov 2024
         </li>
@@ -30,7 +30,7 @@
       <ul>
         <li>
           <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="20"/>
-          <strong>Data Science Career Starter</strong> – Pacmann<br>
+          <strong>  Data Science Career Starter</strong> – Pacmann  <br>
           📅 Jul 2023<br>
           🔗 <a href="#">View Certificate</a>
         </li>
