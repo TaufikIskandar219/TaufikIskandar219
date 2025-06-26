@@ -66,7 +66,7 @@
 
 # 📊 Project 2: Model Machine Learning
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/machinelearningtypes.jpg" alt="Struktur Machine Learning" width="400"/>
 </div>
 
