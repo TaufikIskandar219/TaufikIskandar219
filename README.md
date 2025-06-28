@@ -80,7 +80,7 @@
     <td align="center"><strong>Forecasting</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Forecasting.png" width="300"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>Lasso Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+    <td align="center"><strong>Classification </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/grafik%20scatter%20plot%20klasifikasi.jpg" width="300"/></td>
     <td align="center"><strong>LightGBM Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
   </tr>
 </table>
