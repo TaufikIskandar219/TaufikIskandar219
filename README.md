@@ -76,8 +76,8 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Ridge Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
-    <td align="center"><strong>XGBoost Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+    <td align="center"><strong>Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+    <td align="center"><strong>Forecasting</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Forecasting.png" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><strong>Lasso Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
