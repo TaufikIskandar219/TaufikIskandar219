@@ -80,8 +80,8 @@
     <td align="center"><strong>Forecasting</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Forecasting.png" width="300"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>Classification </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/grafik%20scatter%20plot%20klasifikasi.jpg" width="300"/></td>
-    <td align="center"><strong>LightGBM Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
+    <td align="center"><strong> Classification </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/grafik%20scatter%20plot%20klasifikasi.jpg" width="300"/></td>
+    <td align="center"><strong> Clustering </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Customer%20Clusters%20based%20on%20RFM%20Analysis.jpg" width="300"/></td>
   </tr>
 </table>
 
