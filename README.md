@@ -64,15 +64,15 @@
 
 ---
 
-# 📊 Project 2: Model Machine Learning
+# Model Machine Learning
 
 <div align="left">
-  <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/machinelearningtypes.jpg" alt="Struktur Machine Learning" width="400"/>
+  <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/ML.svg" alt="Struktur Machine Learning" width="500"/>
 </div>
 
 ---
 
-## 📈 Hasil Prediksi vs Aktual (Model Regression)
+## 📈 Example Project Machine Learning
 
 <table>
   <tr>
