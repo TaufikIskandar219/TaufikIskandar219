@@ -101,6 +101,7 @@
   <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/ML.svg" alt="Struktur Machine Learning" width="500"/>
 </div>
 
+📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data.pdf)
 
 ### 🛠 Languages and Tools:
 
