@@ -95,6 +95,12 @@
 🔗 [Lihat Kode Proyek Lengkap](https://github.com/username/repo-name/blob/main/project-folder/model_regression.ipynb)
 
 ---
+# Dashboard Visualization
+
+<div align="left">
+  <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/ML.svg" alt="Struktur Machine Learning" width="500"/>
+</div>
+
 
 ### 🛠 Languages and Tools:
 
