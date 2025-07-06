@@ -97,9 +97,14 @@
 ---
 # Dashboard Visualization
 
-<div align="left">
-  <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/ML.svg" alt="Struktur Machine Learning" width="500"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <h3>📊 Power BI Dashboard</h3>
+    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data_page-0001.jpg" alt="Power BI Dashboard" width="100%">
+  </div>
 </div>
+
 
 📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data.pdf)
 
