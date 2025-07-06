@@ -76,12 +76,12 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="300"/></td>
-    <td align="center"><strong>Forecasting</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Forecasting.png" width="300"/></td>
+    <td align="center"><strong>Regression</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Regression-gaji.png" width="400"/></td>
+    <td align="center"><strong>Forecasting</strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Forecasting.png" width="400"/></td>
   </tr>
   <tr>
-    <td align="center"><strong> Classification </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/grafik%20scatter%20plot%20klasifikasi.jpg" width="300"/></td>
-    <td align="center"><strong> Clustering </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Customer%20Clusters%20based%20on%20RFM%20Analysis.jpg" width="300"/></td>
+    <td align="center"><strong> Classification </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/grafik%20scatter%20plot%20klasifikasi.jpg" width="400"/></td>
+    <td align="center"><strong> Clustering </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Customer%20Clusters%20based%20on%20RFM%20Analysis.jpg" width="400"/></td>
   </tr>
 </table>
 
@@ -100,12 +100,19 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1; min-width: 300px;">
-    <h3>📊 Contoh Project Power BI Dashboard</h3>
-    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data_page-0001.jpg" alt="Power BI Dashboard" width="70%">
+    <h3>📊 Contoh Project 1 Dashboard Power BI</h3>
+    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data_page-0001.jpg" alt="Power BI Dashboard" width="80%">
   </div>
+  📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data.pdf)
+
+  <div style="flex: 1; min-width: 300px;">
+    <h3>📊 Contoh Project 2 Dashboard Looker Studio</h3>
+    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Penjualan-Nasional_page-0001.jpg" alt="Power BI Dashboard" width="80%">
+  </div>
+  📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Penjualan-Nasional.pdf)
 </div>
 
-📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data.pdf)
+
 
 ### 🛠 Languages and Tools:
 
