@@ -85,13 +85,6 @@
   </tr>
 </table>
 
-📁 Setiap gambar memperlihatkan **akurasi prediksi** dibandingkan nilai aktual menggunakan model berikut:
-
-- 🔵 Ridge Regression  
-- 🔴 Lasso Regression  
-- 🔷 XGBoost Regression  
-- 🔶 LightGBM Regression  
-
 🔗 [Lihat Kode Proyek Lengkap](https://github.com/username/repo-name/blob/main/project-folder/model_regression.ipynb)
 
 ---
