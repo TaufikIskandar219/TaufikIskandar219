@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td align="center"><strong> Classification </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Klasifikasi%20page_views%20vs%20session_duration%20terhadap%20Tipe%20Lead.png" width="400"/></td>
-    <td align="center"><strong> Clustering </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Customer%20Clusters%20based%20on%20RFM%20Analysis.jpg" width="400"/></td>
+    <td align="center"><strong> Clustering </strong><br><img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Segmentation%20RFM.png" width="400"/></td>
   </tr>
 </table>
 
