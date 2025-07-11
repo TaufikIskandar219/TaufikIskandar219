@@ -94,13 +94,13 @@
 
   <div style="flex: 1; min-width: 300px;">
     <h3>📊 Contoh Project 1 Dashboard Power BI</h3>
-    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data_page-0001.jpg" alt="Power BI Dashboard" width="80%">
+    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data_page-0001.jpg" alt="Power BI Dashboard" width="85%">
   </div>
   📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Dashboard_Sales_Data.pdf)
 
   <div style="flex: 1; min-width: 300px;">
     <h3>📊 Contoh Project 2 Dashboard Looker Studio</h3>
-    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Penjualan-Nasional_page-0001.jpg" alt="Power BI Dashboard" width="80%">
+    <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Penjualan-Nasional_page-0001.jpg" alt="Power BI Dashboard" width="85%">
   </div>
   📄 [Download atau Baca PDF Laporan](https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/Penjualan-Nasional.pdf)
 </div>
