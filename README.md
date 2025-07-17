@@ -48,13 +48,6 @@
   </tr>
 </table>
 
----
-
-## 💼 Work Experience:
-(*Coming soon...*)
-
----
-
 # Model Machine Learning
 
 <div align="left">
