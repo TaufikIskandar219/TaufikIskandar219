@@ -31,17 +31,17 @@
         <li>
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="20"/>
           <strong>  Google Data Analytics Professional </strong> – Coursera <br>
-          🔗 <a href="#">View Certificate</a>
+          🔗 <a href="https://drive.google.com/drive/folders/1FWodYB3V39TROD3ENqMCrLQW1WAsJKyp">View Certificate</a>
         </li>
         <li>
           <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/COURSERA.png" width="20"/>
           <strong>Excel Skills for Business: Essentials </strong> – Coursera <br>
-          🔗 <a href="#">View Certificate</a>
+          🔗 <a href="https://drive.google.com/file/d/1oO99zS5DTBRfy6DzJRc282g2Zy0Y5Kpj/view?usp=sharing">View Certificate</a>
         </li>
         <li>
           <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/kelas.jpg" width="20"/>
           <strong>Mahir Ms. Office dari A-Z-Completion </strong> – Kelas.com <br>
-          🔗 <a href="#">View Certificate</a>
+          🔗 <a href="https://drive.google.com/file/d/1C8O453eIRZ0AaRQNIgUDOSPrT7ePW_nc/view?usp=sharing">View Certificate</a>
         </li>
       </ul>
     </td>
