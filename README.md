@@ -29,27 +29,18 @@
       <h3>📜 <strong>Certifications</strong></h3>
       <ul>
         <li>
-          <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="20"/>
-          <strong>  Data Science Career Starter</strong> – Pacmann  <br>
-          📅 Jul 2023<br>
-          🔗 <a href="#">View Certificate</a>
-        </li>
-        <li>
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="20"/>
-          <strong>Google Advanced Data Analytics</strong><br>
-          📅 Jan 2023<br>
+          <strong>  Google Data Analytics Professional </strong> – Coursera <br>
           🔗 <a href="#">View Certificate</a>
         </li>
         <li>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Coursera_logo.svg" width="20"/>
-          <strong>Data Science Orientation</strong> – Coursera<br>
-          📅 May 2022<br>
+          <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/COURSERA.png" width="20"/>
+          <strong>Excel Skills for Business: Essentials </strong> – Coursera <br>
           🔗 <a href="#">View Certificate</a>
         </li>
         <li>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="20"/>
-          <strong>IBM Data Science</strong><br>
-          📅 2021<br>
+          <img src="https://github.com/TaufikIskandar219/TaufikIskandar219/blob/main/img/kelas.jpg" width="20"/>
+          <strong>Mahir Ms. Office dari A-Z-Completion </strong> – Kelas.com <br>
           🔗 <a href="#">View Certificate</a>
         </li>
       </ul>
